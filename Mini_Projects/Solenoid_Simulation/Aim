@@ -1,0 +1,8 @@
+This project models, simulates and analyses a solenoid in ANSYS Maxwell 3D using 
+magnetostatic analysis. The work covers geometry creation (Polygon Helix coil), 
+environment/region definition, conduction path extraction, material assignment, excitation 
+application, meshing strategy, and verification against analytical relations. The report 
+documents the full workflow, provides analytic checks (with worked calculations), suggests 
+parametric studies and next steps (optimization, transient/eddy current analysis, hardware 
+validation).
+
