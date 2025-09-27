@@ -1,0 +1,9 @@
+This project aimed to build a system that detects meteors by listening for their 
+unique "ping" in the radio spectrum. Instead of using complex and expensive radar, we 
+created a passive listener. The idea is simple: a distant radio station (our "beacon") is 
+always transmitting. When a meteor burns up in the atmosphere, it leaves a 
+temporary trail of ionized gas. This trail can act like a mirror, briefly reflecting the 
+beacon's signal toward our antenna. Even though the meteor itself might be invisible, 
+we can catch its reflection. 
+Our goal was to design the antenna, build the data processing pipeline, and create an 
+autonomous system to spot these fleeting signals. 
